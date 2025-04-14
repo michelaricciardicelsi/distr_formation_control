@@ -56,7 +56,7 @@ Simulations were performed using **MATLAB and Simulink**, demonstrating:
 
 ### Results Snapshots:
 - **Figure 1:** UAVs trajectories
-  <img width="355" alt="image" src="https://github.com/user-attachments/assets/d3adf52e-9962-4807-b901-10ab05068766" />
+<img width="355" alt="image" src="https://github.com/user-attachments/assets/d3adf52e-9962-4807-b901-10ab05068766" />
 
 - **Figure 2:** Final 3D formation
 - Robust formation maintenance and successful collision avoidance are observed.
