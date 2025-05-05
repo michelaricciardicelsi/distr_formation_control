@@ -84,4 +84,4 @@ Simulations were performed using **MATLAB and Simulink**, demonstrating:
 ├── fixed_scale_control.m         # Fixed scale formation control logic
 ├── state_space_model.m           # System dynamic modeling
 ├── README.md                     # Project documentation
-└── cams_oriolo_finale.pptx       # Presentation slides with full methodology and results
+
