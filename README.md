@@ -73,15 +73,4 @@ Simulations were performed using **MATLAB and Simulink**, demonstrating:
 
 
 
-## 📂 Project Structure
-
-```bash
-/Multi-Agent-System-3D-Formation
-│
-├── main_simulation.m             # Main script to run the simulation
-├── control_gain_design.m         # SDP-based gain design
-├── collision_avoidance.m         # Distributed collision avoidance algorithm
-├── fixed_scale_control.m         # Fixed scale formation control logic
-├── state_space_model.m           # System dynamic modeling
-├── README.md                     # Project documentation
 
